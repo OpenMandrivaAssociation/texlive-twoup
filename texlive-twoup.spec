@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Print two virtual pages on each physical page
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/twoup
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/twoup
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/twoup.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/twoup.doc.r%{version}.tar.xz
